@@ -10,7 +10,6 @@ REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
   - Built With
-  - Live Demo
 - Getting Started
 - Authors
 - Future Features
@@ -42,7 +41,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,36 +58,27 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello-Microverse-Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**The purpose of this project is to enhance my proficiency in GitHub workflow techniques and configure HTML & CSS linters.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This project was built using the following technologies:
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.w3schools.com/html/" target="_blank">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.w3schools.com/css/" target="_blank">Express.js</a></li>
   </ul>
 </details>
 
@@ -97,21 +86,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+<!-- > Describe between 1-3 key features of the application. -->
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- **Easy to use and understand for beginners**
+- **Good example of basic HTML and CSS setup**
+- **Linters set up to catch any errors or issues in the code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,63 +98,45 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
-To get a local copy up and running, follow these steps.
+To get started with the Hello Microvers project, you can follow these simple steps:
 
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
-
-Install this project with:
-
-<!--
-Example command:
+Clone the repository to your local machine using the following command:
 
 ```sh
-  cd my-project
-  gem install
+  git clone git@github.com/ticoniq/hello-microverse-project
 ```
---->
+
+Navigate to the project directory:
+
+```sh
+ cd hello-microverse-project
+```
+
+Open the index.html file in your web browser to view the project:
+```sh
+ open index.html
+```
+
+You can now make changes to the project as desired and push them back to the repository using Git.
+
+That's it! With these simple steps, you should be able to get up and running with the Hello Microverse project in no time. Happy coding!
+
+
 
 ### Usage
 
-To run the project, execute the following command:
+This project doesn't have any real functionality, as it's just a simple "Hello World" application. Its main purpose is to ensure that you have set up your development environment correctly and can push code to a remote repository on GitHub.
 
-<!--
-Example command:
+Feel free to experiment with the code and make changes as needed. Once you're ready to submit your changes, create a pull request on GitHub and I'll review your code.
 
-```sh
-  rails server
-```
---->
 
-### Run tests
+<!-- ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -185,9 +146,9 @@ Example command:
 ```
 --->
 
-### Deployment
+<!-- ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
@@ -203,19 +164,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+<!-- > Mention all of the collaborators of this project. -->
 
-👤 **Author1**
+👤 **Okolie Tochukwu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ticoniq)
+- Twitter: [@twitterhandle](https://twitter.com/ticoniq_)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ticoniq)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +178,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+<!-- > Describe 1 - 3 features you will add to the project. -->
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Additional pages: More pages will be added to the project to display additional content.**
+- [ ] **Responsive design: The project will be optimized to display properly on different screen sizes, including desktops, tablets, and mobile devices.**
+- [ ] **JavaScript interactivity: Some interactive features will be added using JavaScript to enhance the user experience.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,7 +190,7 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+If you'd like to contribute to this project, feel free to fork the repository and make changes as you see fit. Please submit a pull request with your changes and I'll review them as soon as possible.
 
 Feel free to check the [issues page](../../issues/).
 
@@ -245,9 +200,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> I am excited to share with you my latest project on Github. As you know, Github is an essential tool for developers to showcase their skills, collaborate with others, and contribute to open-source projects. By supporting my project, you can help me improve my Github workflow skills and learn how to set up HTML & CSS linters.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +208,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+> I would like to thank the Microverse community for their support and guidance throughout this project. Special thanks to my peers and mentors for their constructive feedback and advice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,24 +216,10 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+<!-- > Add at least 2 questions new developers would ask when they decide to use your project. -->
 
-- **[Question_1]**
+- **What technologies were used to build this project?**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+  - This project was built using HTML, CSS and  Linter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
